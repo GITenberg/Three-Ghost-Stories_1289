@@ -1,0 +1,32 @@
+_repo: Three-Ghost-Stories_1289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Though best known for his heartwarming holiday tales and sweeping social
+  novels such as A Tale of Two Cities and Great Expectations, Charles Dickens was
+  a prolific writer who was always willing to experiment with new styles. The chilling
+  tales collected in Three Ghost Stories are a result of his brief but successful
+  foray into the mystery and detective genres.
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'English fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The haunted house -- The trial for murder -- The signal-man.
+title: Three Ghost Stories
+url: http://www.gutenberg.org/ebooks/1289
