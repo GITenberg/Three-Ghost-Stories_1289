@@ -1,5 +1,8 @@
 _repo: Three-Ghost-Stories_1289
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -14,6 +17,8 @@ description: Though best known for his heartwarming holiday tales and sweeping s
   a prolific writer who was always willing to experiment with new styles. The chilling
   tales collected in Three Ghost Stories are a result of his brief but successful
   foray into the mystery and detective genres.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1289#Three-Ghost-Stories
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
 identifiers:
